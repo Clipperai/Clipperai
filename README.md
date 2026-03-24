@@ -1,4 +1,4 @@
-Hi, I'm Vishu 👋
+Hi, I'm Nishant Chauhan 👋
 
 🚀 BTech Student building real-world tech projects  
 💻 Learning Python, Frontend Development & AI  
