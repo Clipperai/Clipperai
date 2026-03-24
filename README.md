@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Vishu 👋
 
-<!--
-**Clipperai/Clipperai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BTech Student building real-world tech projects  
+💻 Learning Python, Frontend Development & AI  
+🧠 Interested in Automation, AI Assistants, and System Tools  
 
-Here are some ideas to get you started:
+Current Focus:
+• Building JARVIS AI Voice Assistant  
+• Learning Frontend Development  
+• Creating practical projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+• Python
+• JavaScript
+• HTML / CSS
+• Git / GitHub
+
+Projects:
+• JARVIS AI Voice Assistant – Voice automation system  
+• WhatsApp Automation Bot  
+
+Currently Building:
+JARVIS – AI Voice Assistant inspired by Tony Stark
+
+Goal:
+Build impactful tech projects and become a strong Software Engineer.
