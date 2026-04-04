@@ -16,6 +16,7 @@ Tech Stack:
 • Git / GitHub
 
 Projects:
+• Stock Data Dashboard 
 • JARVIS AI Voice Assistant – Voice automation system  
 • WhatsApp Automation Bot  
 
