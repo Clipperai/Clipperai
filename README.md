@@ -23,9 +23,13 @@ Tech Stack:
 
 Projects:
 • Gurukul AI
+
 • Resume Analyzer
+
 • JARVIS AI Voice Assistant – Voice automation system  
+
 • WhatsApp Automation Tool  
+
 • Email Automation Tool  
 
 
