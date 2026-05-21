@@ -15,6 +15,9 @@ Interested in:
 Frontend Development, Software Engineering, AI/ML, and building real-world products.
 
 
+
+In General BIO:-
+
 Tech Stack:
 
 • Python
