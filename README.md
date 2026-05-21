@@ -16,12 +16,14 @@ Frontend Development, Software Engineering, AI/ML, and building real-world produ
 
 
 Tech Stack:
+
 • Python
 • JavaScript
 • HTML / CSS
 • Git / GitHub
 
 Projects:
+
 • Gurukul AI
 
 • Resume Analyzer
