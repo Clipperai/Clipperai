@@ -1,13 +1,19 @@
 Hi, I'm Nishant Chauhan 👋
 
-🚀 BTech Student building real-world tech projects  
-💻 Learning Python, Frontend Development & AI  
-🧠 Interested in Automation, AI Assistants, and System Tools  
+Frontend Developer | AI Builder | BTech CSE
 
-Current Focus:
-• Building JARVIS AI Voice Assistant  
-• Learning Frontend Development  
-• Creating practical projects
+Founder of Gurukul AI — recently launched v1 🚀
+
+Features:
+• Dynamic Roadmap Generator
+• Resume Analyzer
+• Skill Gap Analyzer
+
+Built with Python, Streamlit & Groq API.
+
+Interested in:
+Frontend Development, Software Engineering, AI/ML, and building real-world products.
+
 
 Tech Stack:
 • Python
@@ -16,12 +22,12 @@ Tech Stack:
 • Git / GitHub
 
 Projects:
-• Stock Data Dashboard 
+• Gurukul AI
+• Resume Analyzer
 • JARVIS AI Voice Assistant – Voice automation system  
-• WhatsApp Automation Bot  
+• WhatsApp Automation Tool  
+• Email Automation Tool  
 
-Currently Building:
-JARVIS – AI Voice Assistant inspired by Tony Stark
 
 Goal:
 Build impactful tech projects and become a strong Software Engineer.
