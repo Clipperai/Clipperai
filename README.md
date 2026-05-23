@@ -7,6 +7,8 @@ Founder of Gurukul AI — recently launched v1 🚀
 
 Features:
 
+- AI Chatbot
+
 • Dynamic Roadmap Generator
 
 • Resume Analyzer
