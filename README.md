@@ -9,11 +9,11 @@ Features:
 
 - AI Chatbot
 
-• Dynamic Roadmap Generator
+- Dynamic Roadmap Generator
 
-• Resume Analyzer
+- Resume Analyzer
 
-• Skill Gap Analyzer
+- Skill Gap Analyzer
 
 Built with Python, Streamlit & Groq API.
 
@@ -28,24 +28,24 @@ In General BIO:-
 
 Tech Stack:
 
-• Python
-• JavaScript
-• HTML / CSS
-• Git / GitHub
+- Python
+- JavaScript
+- HTML / CSS
+- Git / GitHub
 
 ---
 
 Selected Projects:
 
-• Gurukul AI
+- Gurukul AI
 
-• Resume Analyzer
+- Resume Analyzer
 
-• JARVIS AI Voice Assistant – Voice automation system  
+- JARVIS AI Voice Assistant-v2 –> Voice automation system  
 
-• WhatsApp Automation Tool  
+- WhatsApp Automation Tool  
 
-• Email Automation Tool  
+- Email Automation Tool  
 
 ---
 
