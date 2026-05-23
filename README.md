@@ -24,7 +24,7 @@ Frontend Development, Software Engineering, AI/ML, and building real-world produ
 
 ---
 
-In General BIO:-
+In General **BIO** :-
 
 Tech Stack:
 
