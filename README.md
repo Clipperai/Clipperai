@@ -3,7 +3,7 @@ Hi, I'm Nishant Chauhan 👋
 
 Frontend Developer | AI Builder | BTech CSE
 
-Founder of Gurukul AI — recently launched v1 🚀
+Founder of **Gurukul AI** — recently launched v1 🚀
 
 Features:
 
