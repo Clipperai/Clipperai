@@ -30,7 +30,7 @@ Tech Stack:
 
 - Python
 - JavaScript
-- HTML / CSS
+- HTML / CSS / JavaScript
 - Git / GitHub
 
 ---
