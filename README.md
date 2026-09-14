@@ -3,7 +3,7 @@ Hi, I'm Nishant Chauhan 👋
 
 > Frontend Developer | AI Builder | BTech CSE
 
-Founder of **Gurukul AI** — recently launched v1 🚀
+Founder of **Gurukul AI** — recently launched v1.1 🚀
 
 Features:
 
@@ -14,6 +14,10 @@ Features:
 - Resume Analyzer
 
 - Skill Gap Analyzer
+
+- Persistent Chat History
+
+- Versions History Page
 
 Built with Python, Streamlit & Groq API.
 
