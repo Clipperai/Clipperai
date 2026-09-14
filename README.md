@@ -15,9 +15,9 @@ Features:
 
 - Skill Gap Analyzer
 
-- Persistent Chat History
+- Persistent Chat History  - **New**
 
-- Versions History Page
+- Versions History Page    - **New**
 
 Built with Python, Streamlit & Groq API.
 
