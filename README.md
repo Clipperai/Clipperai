@@ -1,7 +1,7 @@
 Hi, I'm Nishant Chauhan 👋
 ---
 
-> Frontend Developer | AI Builder | BTech CSE
+> Python-Focused AI Application Develope | BTech CSE
 
 Founder of **Gurukul AI** — recently launched v1.1 🚀
 
