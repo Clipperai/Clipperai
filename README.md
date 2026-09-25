@@ -1,57 +1,85 @@
-Hi, I'm Nishant Chauhan 👋
----
+# Hi, I'm Nishant Chauhan 👋
 
-> Python-Focused AI Application Develope | BTech CSE
+> **Python-Focused AI Application Developer | B.Tech CSE Student**
 
-Founder of **Gurukul AI** — recently launched v1.1 🚀
+I build **practical AI-powered applications and automation tools** that solve real-world problems.
 
-Features:
+## 🚀 Founder — Gurukul AI
 
-- AI Chatbot
+**Gurukul AI** is an **AI-powered employability engine for students**, built to help students learn, identify skill gaps, improve resumes, and prepare for real-world careers.
 
-- Dynamic Roadmap Generator
+🔗 **https://gurukul-ai.streamlit.app/**
 
-- Resume Analyzer
+### Current Features
 
-- Skill Gap Analyzer
+* 🤖 AI-powered learning & career assistance
+* 🗺️ Dynamic Learning Roadmap Generator
+* 📄 Resume Analyzer
+* 🎯 Skill Gap Analyzer
+* 💬 Persistent Chat History
+* 📚 Version History & Product Updates
 
-- Persistent Chat History  - **New**
-
-- Versions History Page    - **New**
-
-Built with Python, Streamlit & Groq API.
-
----
-
-Interested in:
-Frontend Development, Software Engineering, AI/ML, and building real-world products.
+**Tech:** Python • Streamlit • Groq API
 
 ---
 
-In General **BIO** :-
+## 💻 What I'm Interested In
 
-Tech Stack:
-
-- Python
-- JavaScript
-- HTML / CSS / JavaScript
-- Git / GitHub
-
----
-
-Selected Projects:
-
-- Gurukul AI
-
-- Resume Analyzer
-
-- JARVIS AI Voice Assistant-v2 –> Voice automation system  
-
-- WhatsApp Automation Tool  
-
-- Email Automation Tool  
+* AI / GenAI & AI Applications
+* Software Engineering
+* Backend & Web Development
+* Automation
+* Building and shipping real-world products
 
 ---
 
-Goal:
-Build impactful tech projects and become a strong Software Engineer.
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* JavaScript
+* C++
+
+**Web & AI**
+
+* Streamlit
+* Flask
+* React
+* REST APIs
+* AI / LLM APIs
+
+**Tools**
+
+* Git & GitHub
+* VS Code
+
+---
+
+## 📌 Selected Projects
+
+### **Gurukul AI**
+
+AI-powered employability engine for students.
+
+### **Resume Analyzer**
+
+AI-based resume analysis and improvement workflow.
+
+### **JARVIS AI Voice Assistant**
+
+Voice-based automation system built for hands-free interaction.
+
+### **WhatsApp Automation Tool**
+
+Automation workflow for repetitive WhatsApp tasks.
+
+### **Email Automation Tool**
+
+Python-based email automation for sending messages programmatically.
+
+---
+
+## 🎯 My Goal
+
+Build **useful, scalable, real-world software products**, strengthen my problem-solving skills, and grow into a **strong Software Engineer specializing in AI-powered applications**.
