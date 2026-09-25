@@ -45,7 +45,6 @@ I build **practical AI-powered applications and automation tools** that solve re
 
 * Streamlit
 * Flask
-* React
 * REST APIs
 * AI / LLM APIs
 
