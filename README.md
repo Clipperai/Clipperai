@@ -1,55 +1,62 @@
 # Hi, I'm Nishant Chauhan 👋
 
-> **Python-Focused AI Application Developer | B.Tech CSE Student**
+> **Python-Focused AI Application Developer | B.Tech CSE Student 🤖**
 
-I build **practical AI-powered applications and automation tools** that solve real-world problems.
+I build **practical AI-powered applications, automation tools, and software projects** using Python.
+
+My focus is simple: **learn by building, solve real problems, and ship working products.**
+
+---
 
 ## 🚀 Founder — Gurukul AI
 
-**Gurukul AI** is an **AI-powered employability engine for students**, built to help students learn, identify skill gaps, improve resumes, and prepare for real-world careers.
+**Gurukul AI** is an **AI-powered employability engine for students**.
+
+It is designed specifically for students rather than being a general-purpose AI like ChatGPT or Gemini, with a focus on **learning, skill gaps, resumes, career preparation, and employability**.
 
 🔗 **https://gurukul-ai.streamlit.app/**
 
 ### Current Features
 
-* 🤖 AI-powered learning & career assistance
-* 🗺️ Dynamic Learning Roadmap Generator
-* 📄 Resume Analyzer
-* 🎯 Skill Gap Analyzer
-* 💬 Persistent Chat History
-* 📚 Version History & Product Updates
+* 🤖 Personalized AI learning & career guidance
+* 🗺️ Dynamic learning roadmap generation
+* 📄 AI resume analysis
+* 🎯 Skill gap analysis
+* 💬 Persistent chat history
+* 📚 Version history & product updates
 
-**Tech:** Python • Streamlit • Groq API
+**Built with:** Python • Streamlit • AI/LLM APIs • Supabase
 
 ---
 
-## 💻 What I'm Interested In
+## 💻 What I'm Building
 
-* AI / GenAI & AI Applications
-* Software Engineering
-* Backend & Web Development
-* Automation
-* Building and shipping real-world products
+* 🤖 AI / GenAI applications
+* 🐍 Python-based software projects
+* 🔌 AI & REST API integrations
+* ⚙️ Automation tools
+* 🌐 Backend applications
+* 🚀 Practical software products
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 * Python
-* JavaScript
 * C++
 
-**Web & AI**
+### AI & Development
 
+* AI / LLM APIs
 * Streamlit
 * Flask
 * REST APIs
-* AI / LLM APIs
 
-**Tools**
+### Database & Tools
 
+* Supabase
 * Git & GitHub
 * VS Code
 
@@ -57,28 +64,48 @@ I build **practical AI-powered applications and automation tools** that solve re
 
 ## 📌 Selected Projects
 
-### **Gurukul AI**
+### 🧠 Gurukul AI
 
-AI-powered employability engine for students.
+**AI-powered employability engine for students**
 
-### **Resume Analyzer**
+A student-focused AI platform for learning, skill-gap analysis, resume improvement, and career preparation.
 
-AI-based resume analysis and improvement workflow.
+🔗 https://gurukul-ai.streamlit.app/
 
-### **JARVIS AI Voice Assistant**
+### 📄 Resume Analyzer
 
-Voice-based automation system built for hands-free interaction.
+AI-based workflow for analyzing resumes and identifying areas for improvement.
 
-### **WhatsApp Automation Tool**
+### 🤖 JARVIS AI Voice Assistant
 
-Automation workflow for repetitive WhatsApp tasks.
+A Python-based voice assistant focused on hands-free interaction and automation.
 
-### **Email Automation Tool**
+### 📱 WhatsApp Automation Tool
 
-Python-based email automation for sending messages programmatically.
+A Python automation project designed to reduce repetitive messaging tasks.
+
+### 📧 Email Automation Tool
+
+A Python-based tool for sending emails programmatically and automating repetitive email workflows.
 
 ---
 
 ## 🎯 My Goal
 
-Build **useful, scalable, real-world software products**, strengthen my problem-solving skills, and grow into a **strong Software Engineer specializing in AI-powered applications**.
+Become a **strong Software Engineer specializing in Python and AI-powered applications** by consistently building projects, improving problem-solving skills, and turning ideas into working software.
+
+> **Learn → Build → Break → Fix → Improve → Ship 🚀**
+
+---
+
+## 📈 Currently Learning
+
+**Python → AI/ML → GenAI → APIs → Backend Development → Real-World AI Applications**
+
+---
+
+### 🤝 Let's Connect
+
+I'm interested in **AI projects, software development, open-source, internships, hackathons, and building useful products.**
+
+⭐ Explore my repositories and follow my journey.
